@@ -1,5 +1,6 @@
 {
   "commands": [
+move-2-2
     "clear A1",
     "flag E3",
     "flag A6"
